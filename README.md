@@ -1,5 +1,6 @@
 # youtube-downloader
 Ahndrenaline's YouTube DownLoader
 
-Version 0.1
- - Tkinter + pytube
+2022-12-17
+ - Version 0.1
+  : Tkinter + pytube
